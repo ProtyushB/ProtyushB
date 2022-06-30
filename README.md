@@ -4,6 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=protyushb&label=Profile%20views&color=0e75b6&style=flat" alt="protyushb" /> </p>
 
+<img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="altjava" width="400" align="right"/>
+
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **Java Backend Development**
