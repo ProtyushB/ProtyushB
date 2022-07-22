@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Java, MySQL, Java Script, HTML, CSS**
 
-- 📫 How to reach me **protyush@03@gmail.com**
+- 📫 How to reach me **protyush03@gmail.com**
 
 <i>Let's Connect !!<animated-image data-catalyst=""><a href="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" rel="nofollow" data-target="animated-image.originalLink" hidden=""><img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100" style="max-width: 100%;" data-target="animated-image.originalImage" hidden=""></a>
       <span class="AnimatedImagePlayer" data-target="animated-image.player">
