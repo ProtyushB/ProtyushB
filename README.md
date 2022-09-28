@@ -1,5 +1,8 @@
 [![MasterHead](https://user-images.githubusercontent.com/101574751/176734107-790e2477-9b75-4757-9fe0-f4341e66ccb5.jpg)](https://github.com/ProtyushB)
 <h1 align="center">Hi 👋, I'm Protyush Banerjee</h1>
+<p>Full Stack Web developer with specialization in Backend with Java. Have good skills in Hibernate and Spring Boot in
+terms of Frameworks. Always ready to learn new technologies. Loves to work with collaboration. Looking forward to
+working on exciting projects.<p>
 <h3 align="center"></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=protyushb&label=Profile%20views&color=0e75b6&style=flat" alt="protyushb" /> </p>
