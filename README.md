@@ -13,7 +13,7 @@ working on exciting projects.<p>
 
 - 🌱 I’m currently learning **Java Backend Development**
 
-- 💬 Ask me about **Java, MySQL, Java Script, HTML, CSS**
+- 💬 Ask me about **Java, Spring Boot, Hibernate, MySQL, Java Script, HTML, CSS**
 
 - 📫 How to reach me **protyush03@gmail.com**
 
