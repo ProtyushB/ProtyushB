@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/101574751/176734107-790e2477-9b75-4757-9fe0-f4341e66ccb5.jpg)](https://github.com/ProtyushB)
+![Black Minimal Motivation Quote LinkedIn Banner](https://user-images.githubusercontent.com/101574751/192774106-aa0a54e0-5d1f-47db-bfb3-c79be7daaba6.png)
 <h1 align="center">Hi 👋, I'm Protyush Banerjee</h1>
 <p align="Center">Full Stack Web developer with specialization in Backend with Java. Have good skills in Hibernate and Spring Boot in
 terms of Frameworks. Always ready to learn new technologies. Loves to work with collaboration. Looking forward to
@@ -11,7 +11,7 @@ working on exciting projects.<p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Java Backend Development**
+- 🌱 I’m currently learning **Full Stack Development**
 
 - 💬 Ask me about **Java, Spring Boot, Hibernate, MySQL, Java Script, HTML, CSS**
 
